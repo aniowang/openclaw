@@ -19,7 +19,9 @@ OpenClaw是一個開源的 AI Agent 框架，專為企業級對話機器人設�
 
 ### 官方網頁
 
-[https://docs.openclaw.ai/](https://docs.openclaw.ai/)
+[https://docs.openclaw.ai/](https://docs.openclaw.ai/) 
+
+[中文化(私人)](https://claw-tw.jackle.pro/zh-Hant)
 
 ### 適用場景
 
@@ -485,7 +487,24 @@ module.exports = {
 
 ### 4.4 容災機制
 
-#### 自動重啟
+#### 模型使用達上限時切換模型避免服務中斷
+
+```bash
+bash
+# clawdbot.json
+ "agents": {
+    "defaults": {
+      "model": {
+        "primary": "google/gemini-2.5-flash",
+        "fallbacks": [
+          "google/gemini-2.0-flash-lite",
+          "google/gemini-2.5-flash",
+          "opencode/minimax-m2.1-free"
+        ]
+      },
+```
+
+#### ~自動重啟(尚未驗證~)
 
 ```yaml
 # config.yaml
@@ -530,7 +549,7 @@ system:
 
 ### 4.5 Token 使用量控制
 
-#### 模型用量監控
+#### ~模型用量監控(尚未驗證)~
 
 ```yaml
 # config.yaml
@@ -605,7 +624,7 @@ clawdbot report --period weekly
 | 項目               | 地端部署       | 雲端部署     |
 | ------------------ | -------------- | ------------ |
 | **初期成本** | 高 (硬體投資)  | 低           |
-| **長期成本** | 低(自有LLM)    | 高 (訂閱制)  |
+| **長期成本** | 低 (自有LLM)   | 高 (訂閱制)  |
 | **資安等級** | 高             | 中           |
 | **維護難度** | 高             | 低           |
 | **擴充彈性** | 低             | 高           |
@@ -613,13 +632,13 @@ clawdbot report --period weekly
 
 ### 推薦策略
 
-1. **POC 階段**：使用雲端 Ngrok 快速驗證功能
-2. **試運行**：地端部署，串接內部系統
+1. **POC 階段**：使用地端機器與Ngrok 快速驗證功能
+2. **試運行**：驗證安全性問題、研擬內部系統串接管制政策
 3. **正式上線**：評估是否遷移至雲端或持續地端
 4. **定期審計**：每季檢視資安配置與依賴更新
 
 ---
 
-**文件版本**：v1.1
+**文件版本**：v1.2
 **更新日期**：2026-02-12
 **維護人員**：Anio
