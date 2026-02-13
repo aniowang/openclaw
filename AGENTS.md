@@ -15,6 +15,12 @@
 
 ---
 
+## 💻 執行環境 (Runtime)
+- **Python 虛擬環境 (VENV)**: `C:\Users\AA018534\.local\bin\.venv\yulon\Scripts\python.exe`
+- **執行原則**: 所有專案內的 `.py` 腳本（特別是股市與天氣腳本）必須優先使用此路徑之解釋器執行。
+
+---
+
 ## 🏗️ 工作流程與匯報 (Workflow)
 
 ### 1. 模型使用量匯報 (Token Stats) - [強制執行]
