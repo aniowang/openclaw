@@ -1,0 +1,3 @@
+# Method 2: GitHub API
+This file is uploaded via GitHub REST API.
+Created: 2026-02-12
