@@ -16,6 +16,7 @@ secret*
 password*
 credential*
 *_SECRETS.md
+*.py
 
 # --------------------------------------------
 # 組態與設定檔
