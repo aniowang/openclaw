@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>2025 Revenue Distribution</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; background-color: #f4f4f9; }
+        .chart-container { position: relative; height: 60vh; width: 80vw; margin-top: 20px; }
+        h2 { color: #333; }
+    </style>
+</head>
+<body>
+    <h2>🏆 2025 各維修廠營收佔比 (Top 10)</h2>
+    <div class="chart-container">
+        <canvas id="revenueChart"></canvas>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('revenueChart').getContext('2d');
+        const chart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ["\u6176\u901a\u6c7d\u8eca\u4e2d\u58e2\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u6ff1\u6c5f\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u53f0\u4e2d\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u65b0\u7af9\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u5927\u4e2d\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u53f0\u5357\u670d\u52d9\u5ee0", "\u4e16\u8c50\u6c7d\u8eca", "\u6176\u901a\u6c7d\u8eca\u6843\u5712\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u65b0\u5e97\u670d\u52d9\u5ee0", "\u6176\u901a\u6c7d\u8eca\u5609\u7fa9\u670d\u52d9\u5ee0", "Others (\u5176\u4ed6)"],
+                datasets: [{
+                    label: 'Revenue (TWD)',
+                    data: [733150825, 689332619, 687375885, 524813750, 395190421, 391256231, 324815910, 308148802, 216502115, 200357134, 291973999],
+                    backgroundColor: [
+                        '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', 
+                        '#FF9F40', '#E7E9ED', '#76A346', '#00589F', '#C0392B', '#7f8c8d'
+                    ],
+                    hoverOffset: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                let label = context.label || '';
+                                if (label) {
+                                    label += ': ';
+                                }
+                                if (context.parsed !== null) {
+                                    label += new Intl.NumberFormat('zh-TW', { style: 'currency', currency: 'TWD' }).format(context.parsed);
+                                }
+                                return label;
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+        
