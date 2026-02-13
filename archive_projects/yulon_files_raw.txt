@@ -1,0 +1,64 @@
+# 裕隆相關檔案檢索報告 (D:\ 槽 - 避免亂碼測試)
+
+**關鍵字：** 裕隆 / Yulon
+**掃描目錄：** D:/
+**檢索時間：** 2026-01-30 17:20:47 GMT+8
+
+---
+
+## 檢索結果 (共 259 個檔案)
+
+| 檔案名稱 | 相對路徑 | 編輯時間 | 大小 (Bytes) |
+| :--- | :--- | :--- | :--- |
+| (組內)裕隆城.zip | (組內)裕隆城.zip | 2025-06-10 15:47:35 | 649,496,778 |
+| fbe933f0-裕隆經管費用及資本報支說明20250912版.pdf | $RECYCLE.BIN/S-1-5-21-2187632753-1706324108-961196193-1192/$RZF62SC/fbe933f0-裕隆經管費用及資本報支說明20250912版.pdf | 2025-12-15 10:16:21 | 5,733,133 |
+| [裕隆集團] Vertex AI MLOps_SOW_iKala Melody 20251028.pdf | 00數據管理組/01專案/2026圖資選商/[裕隆集團] Vertex AI MLOps_SOW_iKala Melody 20251028.pdf | 2025-10-28 20:02:12 | 2,752,389 |
+| 圖霸_裕隆汽車 試用API key20251105.pdf | 00數據管理組/01專案/2026圖資選商/圖霸_裕隆汽車 試用API key20251105.pdf | 2025-11-05 10:09:36 | 309,016 |
+| 裕隆企業_AI專案顧問服務費(儲值)_愛卡拉 20251121.pdf | 00數據管理組/01專案/2026圖資選商/裕隆企業_AI專案顧問服務費(儲值)_愛卡拉 20251121.pdf | 2025-11-21 14:03:07 | 634,179 |
+| 裕隆企業_AI專案顧問服務費(儲值)_愛卡拉 20251127.pdf | 00數據管理組/01專案/2026圖資選商/裕隆企業_AI專案顧問服務費(儲值)_愛卡拉 20251127.pdf | 2025-11-27 13:16:50 | 649,062 |
+| 【Data Enrich】裕隆x春樹_2024、2025 標籤更新紀錄_20251231.xlsx | 00數據管理組/01專案/2026標籤機整合(Fable)/【Data Enrich】裕隆x春樹_2024、2025 標籤更新紀錄_20251231.xlsx | 2026-01-02 09:13:59 | 73,130 |
+| 裕隆_資料庫優化暨會員標籤流程優化案_SOW_20260123.pdf | 00數據管理組/01專案/2026標籤機整合(Fable)/裕隆_資料庫優化暨會員標籤流程優化案_SOW_20260123.pdf | 2026-01-23 11:06:05 | 1,419,186 |
+| 【Data Enrich】裕隆x春樹_2024、2025 標籤更新紀錄_20251231.xlsx | 00數據管理組/01專案/2026標籤機整合(Fable)/準備文件toFable/標籤系統to_Fable/附件_相關參考/【Data Enrich】裕隆x春樹_2024、2025 標籤更新紀錄_20251231.xlsx | 2026-01-02 09:13:59 | 73,130 |
+| 裕隆課程Day1-1：AI Agent 概論.pdf | 00數據管理組/01專案/AI平台POC/工作坊/裕隆課程Day1-1：AI Agent 概論.pdf | 2025-05-26 09:15:26 | 2,296,358 |
+| 20250527_裕隆城更新筆數檢查.sql | 00數據管理組/01專案/P_Lake_ETL/手動更新檢查/20250527_裕隆城更新筆數檢查.sql | 2025-05-28 08:44:28 | 6,982 |
+| 20250527裕隆城更新筆數追蹤.xlsx | 00數據管理組/01專案/P_Lake_ETL/手動更新檢查/20250527裕隆城更新筆數追蹤.xlsx | 2025-05-27 14:52:40 | 25,462 |
+| 20250612裕隆城更新筆數追蹤.xlsx | 00數據管理組/01專案/P_Lake_ETL/手動更新檢查/20250612裕隆城更新筆數追蹤.xlsx | 2025-06-12 17:41:25 | 16,798 |
+| 裕隆集團會員資產管理Data Lake計轉文件.pdf | 00數據管理組/01專案/P_Lake_ETL/技術文件/裕隆集團會員資產管理Data Lake計轉文件.pdf | 2024-12-20 17:21:00 | 2,392,535 |
+| yulon-gpt-api-main.zip | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main.zip | 2023-11-21 16:54:33 | 2,845,954 |
+| yulongpt-lintbot-main.zip | 00數據管理組/01專案/人資小幫手/yulongpt-lintbot-main.zip | 2023-11-21 16:54:33 | 43,271 |
+| .env | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/.env | 2026-01-22 10:26:33 | 1,206 |
+| .env.example | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/.env.example | 2025-11-19 13:24:10 | 964 |
+| .gitignore | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/.gitignore | 2025-11-19 13:24:11 | 3,916 |
+| alembic.ini | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic.ini | 2025-11-19 13:24:11 | 3,362 |
+| poetry.lock | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/poetry.lock | 2025-11-19 13:24:11 | 477,433 |
+| pyproject.toml | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/pyproject.toml | 2025-11-19 13:24:11 | 1,147 |
+| README.en.md | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/README.en.md | 2025-11-19 13:24:11 | 1,824 |
+| README.md | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/README.md | 2025-11-19 13:24:11 | 564 |
+| __init__.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/__init__.py | 2025-11-19 13:24:11 | 0 |
+| env.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/env.py | 2025-11-19 13:24:11 | 2,304 |
+| README | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/README | 2025-11-19 13:24:11 | 38 |
+| script.py.mako | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/script.py.mako | 2025-11-19 13:24:11 | 510 |
+| 086407e7609b_edit_chunk_embedding_s_id_column_to_be_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/086407e7609b_edit_chunk_embedding_s_id_column_to_be_.py | 2025-11-19 13:24:11 | 1,197 |
+| 17730b5e229a_create_user_table.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/17730b5e229a_create_user_table.py | 2025-11-19 13:24:11 | 708 |
+| 1955d27a74a4_create_chunk_embedding_table.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/1955d27a74a4_create_chunk_embedding_table.py | 2025-11-19 13:24:11 | 900 |
+| 32ed5ae0d55d_edit_knowledge_base_s_id_column_from_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/32ed5ae0d55d_edit_knowledge_base_s_id_column_from_.py | 2025-11-19 13:24:11 | 1,607 |
+| 39bffa14f26b_add_company_column_in_knowledge_base.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/39bffa14f26b_add_company_column_in_knowledge_base.py | 2025-11-19 13:24:11 | 633 |
+| 4d7b1681748c_add_chatbot_config_and_llm_logs_table.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/4d7b1681748c_add_chatbot_config_and_llm_logs_table.py | 2025-11-19 13:24:11 | 2,495 |
+| 575841ec07df_remove_type_title_content_column_in_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/575841ec07df_remove_type_title_content_column_in_.py | 2025-11-19 13:24:11 | 1,093 |
+| 648440cdd449_add_bot_status_bool_into_user_table.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/648440cdd449_add_bot_status_bool_into_user_table.py | 2025-11-19 13:24:11 | 618 |
+| 67fdf4cce13b_update_chunk_embedding_table_remove_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/67fdf4cce13b_update_chunk_embedding_table_remove_.py | 2025-11-19 13:24:11 | 901 |
+| 6ba835d83184_create_chat_messages_table.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/6ba835d83184_create_chat_messages_table.py | 2025-11-19 13:24:11 | 1,111 |
+| 79b416a95c28_add_column_intention_category_on_user_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/79b416a95c28_add_column_intention_category_on_user_.py | 2025-11-19 13:24:11 | 673 |
+| 864df9092ee1_create_knowledge_base_table.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/864df9092ee1_create_knowledge_base_table.py | 2025-11-19 13:24:11 | 1,375 |
+| 86cc56fc2fae_add_prefix_and_postfix_to_skip_in_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/86cc56fc2fae_add_prefix_and_postfix_to_skip_in_.py | 2025-11-19 13:24:11 | 756 |
+| 9d08b6ab9d23_add_original_question_column_in_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/9d08b6ab9d23_add_original_question_column_in_.py | 2025-11-19 13:24:11 | 680 |
+| b958fb0f9c4d_edit_knowledge_base_table_id_column_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/b958fb0f9c4d_edit_knowledge_base_table_id_column_.py | 2025-11-19 13:24:11 | 906 |
+| bfdad207f392_create_function_logs_and_exception_logs_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/bfdad207f392_create_function_logs_and_exception_logs_.py | 2025-11-19 13:24:11 | 1,757 |
+| c88eab17f410_add_column_last_message_sent_at_on_user_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/c88eab17f410_add_column_last_message_sent_at_on_user_.py | 2025-11-19 13:24:11 | 670 |
+| e5520107ad41_drop_references_user_info_user_id_in_.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/e5520107ad41_drop_references_user_info_user_id_in_.py | 2025-11-19 13:24:11 | 805 |
+| f6123b4c024f_add_callback_url_in_chatbot_config.py | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/alembic/versions/f6123b4c024f_add_callback_url_in_chatbot_config.py | 2025-11-19 13:24:11 | 628 |
+| 20230519客服機器人QA(完整).xlsx | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/data/docs/20230519客服機器人QA(完整).xlsx | 2025-11-19 13:24:12 | 67,214 |
+| carplus_docs.json | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/data/docs/carplus_docs.json | 2025-11-19 13:24:12 | 6,741,768 |
+| gpt3_vs_gpt4.ipynb | 00數據管理組/01專案/人資小幫手/yulon-gpt-api-main/yulon-gpt-api-main/playground/gpt3_vs_gpt4.ipynb | 2025-11-19 13:24:12 | 9,166 |
+| ... | ... | ... | ... |
+| **(報告已截斷)** | **找到總數:** | **259** | **個檔案** |
