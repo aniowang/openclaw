@@ -19,7 +19,7 @@ OpenClaw是一個開源的 AI Agent 框架，專為企業級對話機器人設�
 
 ### 官方網頁
 
-[https://docs.openclaw.ai/](https://docs.openclaw.ai/) 
+[https://docs.openclaw.ai/](https://docs.openclaw.ai/)
 
 [中文化(私人)](https://claw-tw.jackle.pro/zh-Hant)
 
@@ -107,7 +107,7 @@ npm --version   # 需為 v9 或 v10
 
 ### 2.2 安裝語法(示範版本是2026.1.24-3所以語法會是clawdbot)
 
-#### 標準安裝 
+#### 標準安裝
 
 ```bash
 # 1. Windows 安裝 Clawdbot CLI  
@@ -137,6 +137,7 @@ docker pull clawdbot/clawdbot:latest
 docker run -d \
   --name clawdbot \
   -p 3000:3000 \
+  -p 18789:18789 \
   -v $(pwd)/data:/app/data \
   -v $(pwd)/memory:/app/memory \
   clawdbot/clawdbot:latest
