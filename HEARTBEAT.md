@@ -1,5 +1,27 @@
-# HEARTBEAT.md
+# HEARTBEAT.md - 自動維運清單
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+每次心跳檢查時，請依序執行（或根據時間段抽查）以下項目：
 
-# Add tasks below when you want the agent to check something periodically.
+## 📈 財務監測 (優先級：高)
+- **開盤期間 (台灣週一至週五 09:00 - 13:30)**：
+  - 執行 `check_portfolio_v2.py`。
+  - **回報邏輯**：
+    - 若損益變動超過 1% 或有特殊倉位變動，主動回報主對話。
+    - 若無重大變動，維持背景紀錄即可。
+- **盤後彙總 (13:40 - 14:00)**：
+  - 執行一次完整盤後結算，並記錄於當日 `memory/` 文件中。
+
+## 🌡️ 生活與環境 (優先級：中)
+- **天氣預警**：
+  - 執行 `plot_xindian_weather_final.py` 或相關更新腳本。
+  - **回報邏輯**：
+    - 每天早上回報一次 
+    - 在有降雨機率 > 50% 或氣溫劇變時主動提醒。
+
+## 🧹 系統記憶維護 (優先級：低)
+- **文件同步**：
+  - 檢查當日 `memory/YYYY-MM-DD.md` 的關鍵內容是否已提煉至 `MEMORY.md`。
+  - 維護專案內文件的一致性與精鍊度。
+
+---
+*保持精鍊。若各項檢查均無顯著變動，僅需回報 `HEARTBEAT_OK`。*
